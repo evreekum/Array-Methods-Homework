@@ -1,0 +1,22 @@
+{
+  "name": "frontend-javascript-edhub-array-methods",
+  "version": "1.0.0",
+  "description": "Deze opdracht bestaat uit meerdere opdrachtjes om met array methoden te kunnen oefenen. Om de opdracht te maken kun je de opdracht clonen of downloaden naar jouw eigen computer. De uitwerkingen staan op de branch _uitwerkingen_.",
+  "main": "arrayMethods.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evreekum/Array-Methods-Homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evreekum/Array-Methods-Homework/issues"
+  },
+  "homepage": "https://github.com/evreekum/Array-Methods-Homework#readme",
+  "dependencies": {
+    "random-joke-getter": "^2.0.3"
+  }
+}
